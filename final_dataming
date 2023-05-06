@@ -1,33 +1,7 @@
-box....
-noise
-31233
-333
+// Your First Program
 
-
-5363
-
-
-
-233
-
-323
-
-333
-
-3
-44466213
-13
-1321
-321321
-312
-31
-31
-31
-31
-31
-321
-32
-3212321
-321
-321032
-0
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!"); 
+    }
+}
